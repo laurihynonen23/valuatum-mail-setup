@@ -1,0 +1,5 @@
+*
+!requirements.txt
+!mail_server.py
+!bridge.py
+!Dockerfile
